@@ -1,2 +1,3 @@
-1.0.2
-部分代码重构，理顺逻辑，调高矿物生成概率
+1.0.2 - build in 20211224-23
+Fix many bugs, nothing is added in game.
+Increase the chance of generating minerals.
