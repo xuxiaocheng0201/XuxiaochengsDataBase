@@ -1,4 +1,5 @@
-1.0.0
-首个物品 菱铁矿 及其锭，粒 加入，并自动生成，添加配方
-
-代码较为混乱，下个版本会修复一些
+1.0.0 - build in 20211215-01
+Add the first item Siderite in the forms of ore, block, ingot and nugget.
+The Ore can be generate in the world.
+All things can be gotten in survive mode.
+There are many BUGs in it, and I'll fix some of them in next version.
