@@ -1,2 +1,3 @@
-1.0.3
-增加磁铁矿及一系列物品，尝试修复配置文件路径错误问题
+1.0.3 - build in 20211225-01
+Add the seize of Magnetite.
+Try to fix the error of configuration path.
