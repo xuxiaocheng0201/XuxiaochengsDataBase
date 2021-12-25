@@ -1,0 +1,2 @@
+1.0.4 - build in 20211225-17
+Create configuration gui in in Game.
