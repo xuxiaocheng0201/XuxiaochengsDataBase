@@ -1,0 +1,4 @@
+1.0.5 - build in 20211226-00
+Remove vanilla iron ore generation, add hematite.
+Add OreDictionaries iron for all iron ores.
+Add update JSON.
